@@ -1,5 +1,5 @@
 # GW Title
-Your project's description...
+Your GW project's description...
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.hlx.page/
